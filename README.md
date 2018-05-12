@@ -10,12 +10,10 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 <!-- Apresentar o tema. -->
 ### 1. Tema
-
 O trabalho final tem como tema o desenvolvimento de um site para compra e venda de produtos e serviços.
 
 <!-- Descrever e limitar o escopo da aplicação. -->
 ### 2. Escopo
-
 	Este projeto terá como objetivo desenvolver uma plataforma onde qualquer pessoa possa anunciar um produto
 	ou serviço para venda. Nesse sistema será possível analisar o histórico do vendendor e do comprador antes
 	de fecharem negócio, além de deixarem um comentário e uma qualificaçãao após a venda. A idéia é criar um
@@ -23,7 +21,6 @@ O trabalho final tem como tema o desenvolvimento de um site para compra e venda 
 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
-	
 	O site não irá possuir um sistema próprio de pagamento, logo todo pagamento irá passar por um
 	terceirizado
 	 (PayPal, PagSeguro, etc). Porém para garantir a segurança das vendas, toda transação efetuada no site é
@@ -33,7 +30,6 @@ O trabalho final tem como tema o desenvolvimento de um site para compra e venda 
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->	
 ### 4. Protótipos
-
 	Protótipos para a pagina inicial com e sem usuário logado foram elaboradas, além da tela de cadastro,
 	busca e login. Os seus funcionamentos não foram detalhados no esboço, porém estará tudo presente na
 	versão final. Os protótipos estão na pasta "Protótipos" no repositório.
