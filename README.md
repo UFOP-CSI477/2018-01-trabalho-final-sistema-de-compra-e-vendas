@@ -21,7 +21,8 @@ O trabalho final tem como tema o desenvolvimento de um site para compra e venda 
 <!-- Apresentar restrições de funcionalidades e de escopo. -->
 ### 3. Restrições
 	
-	O site não irá possuir um sistema próprio de pagamento, logo todo pagamento irá passar por um terceirizado(PayPal, PagSeguro, etc). Porém para garantir a segurança das vendas, toda transação efetuada no site é depositada na conta da empresa, onde após o recebimento do dinheiro e prazo de 30 dias é depositado na conta do vendedor o dinheiro. Caso algum cliente reclame e comprove a lesão na compra, o dinheiro é ressarcido e o vendedor negativado.
+	O site não irá possuir um sistema próprio de pagamento, logo todo pagamento irá passar por um terceirizado
+	 (PayPal, PagSeguro, etc). Porém para garantir a segurança das vendas, toda transação efetuada no site é depositada na conta da empresa, onde após o recebimento do dinheiro e prazo de 30 dias é depositado na conta do vendedor o dinheiro. Caso algum cliente reclame e comprove a lesão na compra, o dinheiro é ressarcido e o vendedor negativado.
 
 <!-- Construir alguns protótipos para a aplicação, disponibilizá-los no Github e descrever o que foi considerado. //-->	
 ### 4. Protótipos
@@ -29,4 +30,4 @@ O trabalho final tem como tema o desenvolvimento de um site para compra e venda 
 	Protótipos para a pagina inicial com e sem usuário logado foram elaboradas, além da tela de cadastro, busca e login. Os seus funcionamentos não foram detalhados no esboço, porém estará tudo presente na versão final. Os protótipos estão na pasta "Protótipos" no repositório.
 
 ### 5. Repositório
-O trabalho final terá como repositório principal o seguinte endereço: [Link]{https://github.com/UFOP-CSI477/2018-01-trabalho-final-sistema-de-compra-e-vendas} .
+O trabalho final terá como repositório principal o seguinte endereço: [Link](https://github.com/UFOP-CSI477/2018-01-trabalho-final-sistema-de-compra-e-vendas/) .
