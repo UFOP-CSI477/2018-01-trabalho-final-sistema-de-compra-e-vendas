@@ -1,4 +1,4 @@
-# **CSI477-2017-01 - Proposta de Trabalho Final**
+# **CSI477-2017-01 - Resumo do Trabalho Final**
 ## *Grupo: José Geraldo Duarte Fagundes*
 
 --------------
