@@ -25,4 +25,4 @@ O site não irá possuir um sistema próprio de pagamento, logo todo pagamento i
 Protótipos para a pagina inicial com e sem usuário logado foram elaboradas, além da tela de cadastro, busca e login. Os seus funcionamentos não foram detalhados no esboço, porém estará tudo presente na versão final. Os protótipos estão na pasta "Protótipos" no repositório.
 
 ### 5. Repositório
-O trabalho final terá como repositório principal o seguinte endereço: [clique aqui](https://github.com/UFOP-CSI477/2018-01-trabalho-final-sistema-de-compra-e-vendas/) .
+O trabalho final terá como repositório principal o seguinte endereço: [clique aqui](https://github.com/UFOP-CSI477/2018-01-trabalho-final-sistema-de-compra-e-vendas/tree/master/Website) .
